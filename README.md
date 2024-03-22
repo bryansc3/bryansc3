@@ -18,5 +18,8 @@ Let's connect and explore how we can create something amazing together!
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
+## Languages
+English, Spanish
+
 ## Hobbies
 - Dancing: ...
