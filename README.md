@@ -1,4 +1,4 @@
-# Hello! I'm Eggsy! Full Stack Developer
+# Hello! I'm Bryan Sotelo! Full Stack Developer
 
 ## About me
 Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. 
@@ -22,4 +22,4 @@ Let's connect and explore how we can create something amazing together!
 English, Spanish
 
 ## Hobbies
-- Dancing: ...
+- Read books, play computer games, watch series and mornig jogging.
